@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "execa": "5.0.0",
-    "promisified-properties": "2.0.15"
+    "promisified-properties": "2.0.18"
   },
   "devDependencies": {
     "@commitlint/cli": "11.0.0",
